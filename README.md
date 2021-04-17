@@ -20,8 +20,8 @@
   
   The following chart shows that school that spend less then $584 have a the highest overall passing percent.
   
-![Overall_passing_by_Spending_per_Student.png](Resources/Overall_passing_by_Spending_per_Student.png)
-
+![Overall_passing_by Spending_per_Student.png](Resources/Overall_passing_by Spending_per_Student.png)
+  
   This chart shows that the overall passing by school size is highest when the population is between 1000-2000 students.
 
 ![Overall_Passing_by_School_size.png](Resources/Overall_Passing_by_School_size.png)
@@ -30,6 +30,6 @@
   
 ![Overall_Passing_by_School_Type.png](Resources/Overall_Passing_by_School_Type.png)
 
+## Summary
 
-  
-  
+  There was little change in the math and reading scores for the district analysis after the ninth grade scores from Thomas High School were replaced with NaNs.  The larger picture shows that charter schools are outpreforming district schools.  However, the geographical location wasn't taken into account and could account for some of the differences in these two types of aschools.  
