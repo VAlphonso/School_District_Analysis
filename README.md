@@ -12,4 +12,10 @@
 # Analysis
 
 ## Results
-  Overall, the ommission of the ninth grade scores at Thomas High School has little impact at the district or even the school level.  Because grades are averaged to the tenth of a percent, the impact on percentage points is minimal.  Furthermore, replacing the ninth grade math and reading scores reduces their standing by three hundredths of a percentage point.  This is not enough to drop them from holding the second highest ranking in the district.  
+  Overall, the ommission of the ninth grade scores at Thomas High School has little impact at the district or even the school level.  Because grades are averaged to the tenth of a percent, the impact on percentage points is minimal.  Furthermore, replacing the ninth grade math and reading scores reduces their overall passing average by three hundredths of a percentage point.  This is not enough to drop them from holding the second highest ranking in the district.  Replacing the ninth grade scores does not affect scores by school spending, school size, or school type.  These are all matricies that aggregate totals from the percentages from the whole school district.  In otherwords, we are looking at data from a very high level.  
+  
+  The district summary is found below:
+  
+  !(District_Summary.png)(Resources/District_Summary.png)
+  
+  
