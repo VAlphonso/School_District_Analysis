@@ -12,13 +12,13 @@
 # Analysis
 
 ## Results
-  Overall, the ommission of the ninth grade scores at Thomas High School has little impact at the district or even the school level.  Because grades are averaged to the tenth of a percent, the impact on percentage points is minimal.  Furthermore, replacing the ninth grade math and reading scores reduces their overall passing average by three hundredths of a percentage point.  This is not enough to drop them from holding the second highest ranking in the district.  Replacing the ninth grade scores does not affect scores by school spending, school size, or school type.  These are all matricies that aggregate totals from the percentages from the whole school district.  In otherwords, we are looking at data from a very high level.  
+  Overall, the omission of the ninth grade scores at Thomas High School has little impact at the district or even the school level.  Because grades are averaged to the tenth of a percent, the impact on percentage points is minimal.  Furthermore, replacing the ninth grade math and reading scores reduces their overall passing average by three hundredths of a percentage point.  This is not enough to drop them from holding the second highest ranking in the district.  Replacing the ninth grade scores does not affect scores by school spending, school size, or school type.  These are all matrices that aggregate totals from the percentages from the whole school district.  In other words, we are looking at data from a very high level.  
   
   As described below, the district summary shows an overall passing of 64.9% and a total budget of 25 million dollars for 15 schools:
   
 ![District_Summary.png](Resources/District_Summary.png)
   
-  The following chart shows that school that spend less then $584 have a the highest overall passing percent.
+  The following chart shows that school that spend less than $584 have a the highest overall passing percent.
   
 ![Overall_passing_by Spending_per_Student.png](Resources/Overall_passing_by Spending_per_Student.png)
   
@@ -26,10 +26,10 @@
 
 ![Overall_Passing_by_School_size.png](Resources/Overall_Passing_by_School_size.png)
 
-  Additionally, charter schools have a higher overall passing percent, as showen below.
+  Additionally, charter schools have a higher overall passing percent, as shown below.
   
 ![Overall_Passing_by_School_Type.png](Resources/Overall_Passing_by_School_Type.png)
 
 ## Summary
 
-  There was little change in the math and reading scores for the district analysis after the ninth grade scores from Thomas High School were replaced with NaNs.  The larger picture shows that charter schools are outpreforming district schools.  However, the geographical location wasn't taken into account and could account for some of the differences in these two types of aschools.  
+  There was little change in the math and reading scores for the district analysis after the ninth grade scores from Thomas High School were replaced with NaNs.  The larger picture shows that charter schools are outperforming district schools.  However, the geographical location wasn't taken into account and could account for some of the differences in these two types of schools.  
