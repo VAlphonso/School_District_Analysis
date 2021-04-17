@@ -14,21 +14,21 @@
 ## Results
   Overall, the omission of the ninth grade scores at Thomas High School has little impact at the district or even the school level.  Because grades are averaged to the tenth of a percent, the impact on percentage points is minimal.  Furthermore, replacing the ninth grade math and reading scores reduces their overall passing average by three hundredths of a percentage point.  This is not enough to drop them from holding the second highest ranking in the district.  Replacing the ninth grade scores does not affect scores by school spending, school size, or school type.  These are all matrices that aggregate totals from the percentages from the whole school district.  In other words, we are looking at data from a very high level.  
   
-  As described below, the district summary shows an overall passing of 64.9% and a total budget of 25 million dollars for 15 schools:
+1. As described below, the district summary shows an overall passing of 64.9% and a total budget of 25 million dollars for 15 schools:
   
-![District_Summary.png](Resources/District_Summary.png)
+  ![District_Summary.png](Resources/District_Summary.png)
   
-  The following chart shows that school that spend less than $584 have a the highest overall passing percent.
+2. The following chart shows that school that spend less than $584 have a the highest overall passing percent.
   
-![Spending_per_Student.png](Resources/Spending_per_Student.png)
+  ![Spending_per_Student.png](Resources/Spending_per_Student.png)
   
-  This chart shows that the overall passing by school size is highest when the population is between 1000-2000 students.
+3. This chart shows that the overall passing by school size is highest when the population is between 1000-2000 students.
 
-![Overall_Passing_by_School_size.png](Resources/Overall_Passing_by_School_size.png)
+  ![Overall_Passing_by_School_size.png](Resources/Overall_Passing_by_School_size.png)
 
-  Additionally, charter schools have a higher overall passing percent, as shown below.
+4. Additionally, charter schools have a higher overall passing percent, as shown below.
   
-![Overall_Passing_by_School_Type.png](Resources/Overall_Passing_by_School_Type.png)
+  ![Overall_Passing_by_School_Type.png](Resources/Overall_Passing_by_School_Type.png)
 
 ## Summary
 
