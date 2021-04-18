@@ -35,9 +35,9 @@
   ![Overall_Passing_by_School_Type.png](Resources/Overall_Passing_by_School_Type.png)
 
 ## Summary
-The following bullets address the School District's Matrics and highlights the conclusions from our analysis:
+The following bullets address the School District's Matrices and highlights the conclusions from our analysis:
 
-- There was little change in the math and reading scores, percentages, and overall preformances for the district analysis after the ninth grade scores from Thomas High School were replaced with NaNs.  The larger picture shows that charter schools are outperforming district schools.  However, neither the geographical location nor socioeconomics were taken into account; and therefore, any conclusions drawn from this chart may be showing a correlation not a direct cause between the two types of schools.  
+- There was little change in the math and reading scores, percentages, and overall performances for the district analysis after the ninth grade scores from Thomas High School were replaced with NaNs.  The larger picture shows that charter schools are outperforming district schools.  However, neither the geographical location nor socioeconomics were taken into account; and therefore, any conclusions drawn from this chart may be showing a correlation not a direct cause between the two types of schools.  
 - The data does clearly show that schools that have a population of less than 2000 students and spend around $600 per student have the highest success rate.  
-- Lastly, eventhough the average of each schools math score and the average of each schools reading scores are passing, as shown in the top and bottom Preforming Schools Chart, we are still failing to educate 40% of the students in math skills and 20% of the students in reading skills.  In other words, 40% of students in each school did not pass the the math and 20% of students in each school did not pass the reading. 
+- Lastly, even though the average of each schools math score and the average of each schools reading scores are passing, as shown in the top and bottom Preforming Schools Chart, we are still failing to educate 40% of the students in math skills and 20% of the students in reading skills.  In other words, 40% of students in each school did not pass the the math and 20% of students in each school did not pass the reading. 
 
